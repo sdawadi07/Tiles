@@ -95,6 +95,9 @@ public class TileGameController {
         longestComboText.setText("Longest Combo: " + longestCombo);
     }
 
+    /**
+     * This checks whether the game is over or not.
+     */
     private void checkGameOver() {
         boolean allCleared = tiles.stream().noneMatch(tile ->
                 tile.isOuterPresent() || tile.isMiddlePresent() || tile.isInnerPresent()
