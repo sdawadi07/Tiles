@@ -62,6 +62,7 @@ public class TilesGame extends Application {
                         middleColors.get(index),
                         innerColors.get(index),
                         tileSize
+
                 );
                 tiles.add(tile);
                 grid.add(tile.getView(), col, row);
