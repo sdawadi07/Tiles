@@ -26,6 +26,7 @@ middle circle, and inner triangle to select it, And click on the another tile wi
 color to remove both shapes. The combo will increase and the game continues until all the
 removable shapes are cleared.
 
+
 ### Known Bugs
 
 * The program must be restarted to play again.
