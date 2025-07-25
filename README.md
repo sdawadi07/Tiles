@@ -10,6 +10,7 @@ and the innermost triangle.
 * Install JavaFX in your computer
 * Run the main TileGame.java to play this game
 
+
 # How to play this game
 
 * Run the program using JavaFX.
