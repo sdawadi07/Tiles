@@ -86,6 +86,7 @@ public class TileGameController {
         updateScore();
     }
 
+
     private void highlightTile(Tile tile, boolean highlight) {
         tile.getView().setStyle(highlight ? "-fx-border-color: yellow; -fx-border-width: 3;" : "");
     }
